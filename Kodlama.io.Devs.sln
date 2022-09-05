@@ -23,15 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Persistence", "src\cor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Security", "src\corePackages\Core.Security\Core.Security.csproj", "{BDB12C1F-25DA-467E-82C6-A80F5D0C2A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F1F51682-62EE-439E-8761-08DA2340D068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "src\projects\programmingSkills\Application\Application.csproj", "{F1F51682-62EE-439E-8761-08DA2340D068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{4A313C23-5EDE-45EC-9864-36DB42BAF90F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "src\projects\programmingSkills\Domain\Domain.csproj", "{4A313C23-5EDE-45EC-9864-36DB42BAF90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{7B3CECDB-791B-4FA6-AA43-149868747DEB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "src\projects\programmingSkills\Infrastructure\Infrastructure.csproj", "{7B3CECDB-791B-4FA6-AA43-149868747DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{744EF6F5-C907-4A9C-BF2D-CA46AB32A550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "src\projects\programmingSkills\Persistence\Persistence.csproj", "{744EF6F5-C907-4A9C-BF2D-CA46AB32A550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{D968B7EC-09FC-40BE-99BA-05AF84FB5D74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "src\projects\programmingSkills\WebAPI\WebAPI.csproj", "{D968B7EC-09FC-40BE-99BA-05AF84FB5D74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
